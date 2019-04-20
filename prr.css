@@ -1,0 +1,15 @@
+h1 {
+	font-size: 30px;
+	text-align: center;
+	transition: 1s ease;
+	font-family: 'Press Start 2P', cursive;
+}
+h1:hover {
+	transform: rotate(7deg) scale(1.07);
+}
+body {
+	background-color: #F0FFFF;
+}
+h2 {
+	font-family: 'Press Start 2P', cursive;
+}

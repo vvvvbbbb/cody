@@ -1,0 +1,36 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background-color: #df;
+}
+main {
+	width: 70%;
+	padding: 50px; 
+	margin: auto;
+	background-color: #dff;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.photo {
+	width: calc(5000% - 5000px);
+	height: calc((300vw - 40px) /16 * 9);
+	margin: 10px;
+	background-color:yellow; 
+}
+h1 {
+	width: 100%;
+	text-align: center;
+	font-size: 48px;
+}
+.photo1 {
+	background: url(../img/1.jpg);
+}
+.photo2 {
+	background: url(../img/2.jpg);
+}
+.photo3 {
+	background: url(../img/3.jpg);
+}
