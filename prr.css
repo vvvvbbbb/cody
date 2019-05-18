@@ -21,3 +21,10 @@ ul{
 	font-family: 'Acme', sans-serif;
 	color: 	#F0FFFF;
 }
+em{
+	font-size: 20px;
+}
+h2{
+	color: #00FF7F;
+	font-size: 30px;
+}
